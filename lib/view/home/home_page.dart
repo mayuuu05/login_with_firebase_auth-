@@ -17,8 +17,8 @@ class HomePage extends StatelessWidget {
         ),),
         centerTitle: true,
        actions: [
-         IconButton(onPressed: () {
-           AuthService.authService.signOutYourAccount();
+         IconButton(onPressed: () async {
+           await AuthService.authService.signOutYourAccount();
 
            User? user = AuthService.authService.getCurrentUser();
            if(user == null)
