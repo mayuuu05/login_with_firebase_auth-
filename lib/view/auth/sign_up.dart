@@ -62,7 +62,8 @@ class SignUp extends StatelessWidget {
                   color: Colors.grey[100],
                   borderRadius: BorderRadius.circular(12),
                 ),
-                child: const TextField(
+                child:  TextField(
+                  controller: controller.txtEmail,
                   decoration: InputDecoration(
                     border: InputBorder.none,
                     labelText: 'Email',
@@ -79,7 +80,9 @@ class SignUp extends StatelessWidget {
                   color: Colors.grey[100],
                   borderRadius: BorderRadius.circular(12),
                 ),
-                child: const TextField(
+                child:  TextField(
+
+                  controller: controller.txtPassword,
                   obscureText: true,
                   decoration: InputDecoration(
                     border: InputBorder.none,
