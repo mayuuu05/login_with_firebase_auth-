@@ -35,7 +35,7 @@ The app uses Firebase Authentication for secure user login and sign-up. The foll
 
 
 
-### 1. Google Login and Sign-Up Page
+# 1. Google Login and Sign-Up Page
 
 
 <div align = "center">
