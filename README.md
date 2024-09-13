@@ -31,7 +31,23 @@ The app uses Firebase Authentication for secure user login and sign-up. The foll
    
   <img src = "https://github.com/user-attachments/assets/8aee4ffc-3a58-435d-954d-14395f6483b8"  height=40% width=70%  />
 
+</div>
 
 
 
+### 1. Google Login and Sign-Up Page
+
+
+<div align = "center">
+ 
+    
+  <img src = "https://github.com/user-attachments/assets/80e48ac6-beb2-4474-bd78-d6ba8c08582a"  height=35% width=22%  />
+   <img src = "https://github.com/user-attachments/assets/89d852fe-d660-429c-81ef-02491a2bb616"  height=35% width=22%  />
+   <img src = "https://github.com/user-attachments/assets/b7cb29e1-369d-40ee-851e-82b5f0e5d09d"  height=35% width=22%  />
+   <img src = "https://github.com/user-attachments/assets/10139bb6-5faf-4612-b8cc-d0d50a28c85f"  height=35% width=22%   />
+
+   <video src = ""   />
+   
+  
+</div>
 
