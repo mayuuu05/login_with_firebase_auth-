@@ -14,6 +14,7 @@ The app uses Firebase Authentication for secure user login and sign-up. The foll
 - **Password Reset:** Allows users to reset their password if they forget it.
 - **Account Management:** Users can update their account details, including email and password.
 
+
 ### 2. Implementation
 
 - **Firebase Setup:** Firebase Authentication is set up in the app using the Firebase SDK. Make sure to configure Firebase in your project by adding your `google-services.json` (for Android) or `GoogleService-Info.plist` (for iOS) to the respective platform directories.
